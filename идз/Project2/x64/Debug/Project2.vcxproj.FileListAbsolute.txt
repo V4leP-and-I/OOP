@@ -1,0 +1,8 @@
+C:\Users\Валерия\Desktop\ЛАБЫ ПРОГА\ООП\идз\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\Валерия\Desktop\ЛАБЫ ПРОГА\ООП\идз\Project2\Project2\x64\Debug\Project2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Валерия\Desktop\ЛАБЫ ПРОГА\ООП\идз\Project2\Project2\x64\Debug\Project2.MyForm.resources
+C:\Users\Валерия\Desktop\ЛАБЫ ПРОГА\ООП\идз\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Users\Валерия\Desktop\ЛАБЫ ПРОГА\ООП\идз\идз\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\Валерия\Desktop\ЛАБЫ ПРОГА\ООП\идз\идз\Project2\x64\Debug\Project2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Валерия\Desktop\ЛАБЫ ПРОГА\ООП\идз\идз\Project2\x64\Debug\Project2.MyForm.resources
+C:\Users\Валерия\Desktop\ЛАБЫ ПРОГА\ООП\идз\идз\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache

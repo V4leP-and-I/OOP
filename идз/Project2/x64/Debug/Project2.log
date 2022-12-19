@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Project2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MyForm.cpp
+C:\Users\Валерия\Desktop\ЛАБЫ ПРОГА\ООП\идз\идз\Project2\MyForm.h(470,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Валерия\Desktop\ЛАБЫ ПРОГА\ООП\идз\идз\Project2\MyForm.cpp(11,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project2.vcxproj -> C:\Users\Валерия\Desktop\ЛАБЫ ПРОГА\ООП\идз\идз\x64\Debug\Redactor.exe
