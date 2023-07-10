@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="19">
+<data class_id="0" tracking_level="0" version="0">
+	<bus class_id="1" tracking_level="0" version="0">
+		<type>Автобус</type>
+		<batch>65gj</batch>
+		<number>627</number>
+		<type_gasoline>92</type_gasoline>
+		<count_wheel>8</count_wheel>
+		<deterioration_wheel>С шипами</deterioration_wheel>
+		<season>Лето</season>
+		<seating_capacity>45</seating_capacity>
+		<place_of_departure>ЛГТУ</place_of_departure>
+		<arrival_point>Парк Победы</arrival_point>
+	</bus>
+</data>
+</boost_serialization>
+
